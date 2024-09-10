@@ -1,3 +1,10 @@
+"""
+Settings module for LinkedIn API.
+
+This module sets up various directory paths and environment settings used
+by the LinkedIn API scripts, including paths for user data and cookies.
+"""
+
 import os
 from pathlib import Path
 
